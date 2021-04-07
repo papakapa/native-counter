@@ -2,5 +2,10 @@
   "name": "native-counter",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository":
+  {
+    "type" : "git",
+    "url" : "https://github.com/papakapa/native-counter"
+  }
 }
